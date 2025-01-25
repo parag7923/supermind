@@ -1,1 +1,1 @@
-# supermind
+# supermind hackathon
